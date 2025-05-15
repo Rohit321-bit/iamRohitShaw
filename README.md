@@ -23,9 +23,9 @@
 </details>
 </div>
 
-* I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
+* <img alt="GIF" src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/Developer.gif" width="25" /> &nbsp; I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
+* <img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/College.gif" width="25" />&nbsp;&nbsp; I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
+* <img src="https://github.com/Rohit321-bit/iamRohitShaw/blob/main/assets/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
 * I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
 
 ***
